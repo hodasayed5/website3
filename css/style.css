@@ -1,0 +1,23 @@
+body{
+background-color: rgb(248, 248, 248) !important;
+font-family:'Times New Roman', Times, serif !important;
+}
+.fix1{background:url(../image/photo-1517248135467-4c7edcad34c4.jpg) center fixed no-repeat ; background-size: cover;}
+.pr:hover{transform:translatey(-7px);
+box-shadow:0px 10px 15px 10px rgb(207, 207, 207) !important;
+transition: 0.4s;}
+.fix3{background:url(../image/kfc2.png) center; background-size:100% 100%;}
+.fix4{background:url(../image/larg2.png) center; background-size:100% 100%;}
+.footer{background-color: rgb(48, 48, 49) !important;}
+.do:hover{background-color: rgba(0, 0, 0, 0.87) !important; color: white !important;}
+.do:focus i{display: none;}
+.ho::after,.ho1::after{
+background-color: rgba(0, 0, 0, 0.596);
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%; 
+}
+.ho{background: url(../image/pa3.jpg) center fixed; background-size: 100% 100%;}
+.ho1{background: url(../image/pa2.jpeg) center fixed; background-size:100% 100% ;}
